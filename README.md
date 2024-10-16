@@ -7,9 +7,9 @@ Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance i
 Scripts:
 
 Auto Collect:
-
+```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Restaurant-tycoon-2-script/refs/heads/main/Auto%20collect"))()
-
+```
 
 NPC Instant cook and Reach:
 
