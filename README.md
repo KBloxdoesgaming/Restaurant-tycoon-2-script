@@ -12,14 +12,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Resta
 ```
 
 NPC Instant cook and Reach:
-
+```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Restaurant-tycoon-2-script/refs/heads/main/NPC%20instant%20cook%20and%20reach"))()
-
+```
 
 Player Instant cook:
-
+```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Restaurant-tycoon-2-script/refs/heads/main/Player%20instant%20cook"))()
-
+```
 
 Credits to @RobloxScripter in Youtube
 
