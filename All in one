@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Restaurant-tycoon-2-script/refs/heads/main/Auto%20collect"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Restaurant-tycoon-2-script/refs/heads/main/NPC%20instant%20cook%20and%20reach"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Restaurant-tycoon-2-script/refs/heads/main/Player%20instant%20cook"))()
