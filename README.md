@@ -4,8 +4,6 @@ Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance i
 
 (This is a rebuild of the script)
 
-Here are the scripts:
-
 Credits to @RobloxScripter in Youtube
 
 Subscribe to PlayofKB (In the future it is gonna be KBlox does Gaming) for more scripts!
