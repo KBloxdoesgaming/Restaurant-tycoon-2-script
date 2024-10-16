@@ -4,7 +4,7 @@ Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance i
 
 (This is a rebuild of the script)
 
-Use one script at a time. (rejoin to off the script)
+Here are the scripts:
 
 Credits to @RobloxScripter in Youtube
 
