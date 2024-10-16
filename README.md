@@ -21,6 +21,12 @@ Player Instant cook:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Restaurant-tycoon-2-script/refs/heads/main/Player%20instant%20cook"))()
 ```
 
+All in one:
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxdoesgaming/Restaurant-tycoon-2-script/refs/heads/main/All%20in%20one"))()
+```
+
+
 Credits to @RobloxScripter in Youtube
 
 Subscribe to PlayofKB (In the future it is gonna be KBlox does Gaming) for more scripts!
